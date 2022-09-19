@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\KlasaArrayListApp\KlasaArrayListApp\bin\Debug\KlasaArrayListApp.exe.config
+C:\Users\ucenik\source\repos\KlasaArrayListApp\KlasaArrayListApp\bin\Debug\KlasaArrayListApp.exe
+C:\Users\ucenik\source\repos\KlasaArrayListApp\KlasaArrayListApp\bin\Debug\KlasaArrayListApp.pdb
+C:\Users\ucenik\source\repos\KlasaArrayListApp\KlasaArrayListApp\obj\Debug\KlasaArrayListApp.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\KlasaArrayListApp\KlasaArrayListApp\obj\Debug\KlasaArrayListApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\KlasaArrayListApp\KlasaArrayListApp\obj\Debug\KlasaArrayListApp.Form1.resources
+C:\Users\ucenik\source\repos\KlasaArrayListApp\KlasaArrayListApp\obj\Debug\KlasaArrayListApp.Properties.Resources.resources
+C:\Users\ucenik\source\repos\KlasaArrayListApp\KlasaArrayListApp\obj\Debug\KlasaArrayListApp.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\KlasaArrayListApp\KlasaArrayListApp\obj\Debug\KlasaArrayListApp.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\KlasaArrayListApp\KlasaArrayListApp\obj\Debug\KlasaArrayListApp.exe
+C:\Users\ucenik\source\repos\KlasaArrayListApp\KlasaArrayListApp\obj\Debug\KlasaArrayListApp.pdb
